@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="01609164-813e-4519-8e00-197b03da1ea1" name="SFTP Server" url="http://github.com">
+        <fileTransfer accessType="SFTP" host="github.com" port="22" sshConfigId="dd4e8f29-1ed8-4ad5-a892-bf52ca9b579c" sshConfig="john.morrisbest@gmail.com@github.com:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
