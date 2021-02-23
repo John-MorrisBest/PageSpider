@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="SFTP Server" remoteFilesAllowedToDisappearOnAutoupload="false">
+  <component name="PublishConfigData" serverName="SFTP Server" uploadOnCheckin="01609164-813e-4519-8e00-197b03da1ea1" remoteFilesAllowedToDisappearOnAutoupload="false">
     <serverData>
       <paths name="SFTP Server">
         <serverdata>
@@ -10,5 +10,6 @@
         </serverdata>
       </paths>
     </serverData>
+    <option name="myUploadOnCheckinName" value="SFTP Server" />
   </component>
 </project>
